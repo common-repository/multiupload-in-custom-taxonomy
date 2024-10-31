@@ -1,0 +1,22 @@
+.icon32 { display: block; float: left; margin-right: 10px; vertical-align: middle; }
+.wrap h2 { padding:5px 15px 5px 0; }
+.wrap h3 { border: 0 none; color: #222; margin-bottom: 0; border-bottom: 5px solid #dfdfdf; padding-bottom:10px }
+#multi_upload_image_url { margin-bottom: 15px; }
+.form-field .multi-image-add{ width: 28% !important; float: left; margin-right: 30px; margin-top: -14px; }
+.form-field .multi-image-add1{ width: 23% !important; }
+.form-field .multi-image-edit1{ width: 10% !important; }
+.form-field .multi-image-remove{ width: 28% !important; float: left; margin-left: 79px; margin-top: -28px; }
+.form-field .multi-image-remove-edit{ width: 45% !important; float: left; margin-left: 79px; margin-top: -24px; }
+.form-field .multi-outer-div { float: left; clear: both; margin-top: 15px; margin-bottom: 15px; }
+.form-field .multi-inner-div { float: left; clear: both; }
+.form-field .multiurl { margin-top: -14px; }
+
+#form-settings { width: 40%; }
+#form-settings th { padding: 15px 10px; }
+#form-settings .field-status { width: 10%; text-align: right; }
+#form-settings .field-name, #form-settings td { width: auto; text-align: left; text-transform: capitalize; }
+#of_container { position: relative; z-index: 0; }
+#of_container .of-save-popup { z-index: 9999; }
+#of_container .of-save-popup { position: absolute; background: rgba(0, 0, 0, 0.5); color: #fff; font-size: 24px; text-align: center; display: none; -webkit-border-radius: 12px; -moz-border-radius: 12px; border-radius: 12px;}
+#of_container .of-save-save { background-image: url(../images/button_check.png); }
+#of_container .of-save-popup div { background-repeat: no-repeat; background-position: 20px 50%; padding: 30px 30px 30px 60px; }
